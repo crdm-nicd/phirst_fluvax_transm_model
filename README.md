@@ -15,7 +15,7 @@ Simulations assessed the effectiveness of transmission-reducing vaccines targeti
 
 ## Repository contents
 
-- Flu Vax SEIR Kleynhans.ipynb: Jupyter notebook containing the full model code, parameter fitting, and scenario simulations.
+- Flu Vax SEIR Kleynhans.ipynb: Jupyter notebook containing the full model code
 - Influenza model input parameters.pkl: Serialized input file containing fixed model parameters. These are loaded by the notebook to reproduce simulations. Fitted parameters (from least-squares fitting to observed attack rates in the PHIRST household cohort) are included in the notebook itself.
 
 The model provides a policy-relevant tool to assess the value of new influenza vaccines, especially in low- and middle-income, high-transmission settings.
